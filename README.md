@@ -19,3 +19,7 @@ The goal was to extract a summary table showing:
 * **Data Filtering:** Using `WHERE` to isolate international students (`inter_dom = 'Inter'`).
 * **Data Formatting:** Using `ROUND()` for professional reporting.
 * **Grouping & Sorting:** Mastering `GROUP BY` and `ORDER BY` for structured insights.
+##  📈 Key Findings
+The analysis provides a clear view of how mental health scores fluctuate as students spend more years in a new cultural environment.
+
+This data helps in identifying which student groups might need more social or psychological support.
